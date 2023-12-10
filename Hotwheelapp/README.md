@@ -7,8 +7,8 @@ This app is a mobile way to edit my real time database from anywhere you are. Th
 The tools I used to create this app were Android studio, even thoguh the default language for Android Studio is Kotlin I chose to use Java instead due to my little background in the language.
 
 # Useful Websites
-* [Web Site Name](https://developer.android.com/training/basics/firstapp)
-* [Web Site Name](https://developer.android.com/courses)
+* [Android.com](https://developer.android.com/training/basics/firstapp)
+* [Android.com](https://developer.android.com/courses)
 
 # Future Work
 * Update Option

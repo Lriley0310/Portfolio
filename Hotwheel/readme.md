@@ -14,8 +14,8 @@ I used the documents that google provided to understand the commands anf I used 
 
 # Useful Websites
 
-- [Web Site Name](https://firebase.google.com/docs/cli)
-- [Web Site Name](https://www.youtube.com/watch?v=EiddkXBK0-o)
+- [Google Firebase](https://firebase.google.com/docs/cli)
+- [Youtube](https://www.youtube.com/watch?v=EiddkXBK0-o)
 
 # Future Work
 
