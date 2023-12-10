@@ -1,0 +1,4 @@
+# pandas==1.1.5
+# requests==2.22.0
+# streamlit==0.73.0
+neattext==0.0.9
