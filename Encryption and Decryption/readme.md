@@ -22,7 +22,7 @@ This application allows you to securely encrypt and decrypt files using the Adva
 
 ## Usage
 1. Generate Key:<br>
-    To generate a secure key and save it to a specified file:<br>
+    To generate a secure key and save it to a specified file:<br>  
         python main.py generate_key --key keyfile.key
 
 2. Encrypt File:<br>
