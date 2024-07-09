@@ -21,14 +21,14 @@ This application allows you to securely encrypt and decrypt files using the Adva
     pip isntall cryptography
 
 ## Usage
-1. Generate Key:
-    To generate a secure key and save it to a specified file:  
+1. Generate Key:<br>
+    To generate a secure key and save it to a specified file:<br>
         python main.py generate_key --key keyfile.key
 
-2. Encrypt File:
-    To Encrypt a specified file using the generated key (the original message will be deleted after encryption!):  
+2. Encrypt File:<br>
+    To Encrypt a specified file using the generated key (the original message will be deleted after encryption!):<br>  
         python main.py encrypt --file [file name] --key keyfile.key
     
-3. Decrypt Files:
-    To decrypt the file that you previously encrypted:  
+3. Decrypt Files:<br>
+    To decrypt the file that you previously encrypted:<br>  
         python main.py decrypt --file [file name].enc --key keyfile.key
