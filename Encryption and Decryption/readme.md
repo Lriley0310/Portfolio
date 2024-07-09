@@ -15,8 +15,8 @@ This application allows you to securely encrypt and decrypt files using the Adva
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Lriley0310/Portfolio/tree/main/project
-
+   git clone https://github.com/Lriley0310/Portfolio.git
+   cd Encryption%20and%20Decryption
 2. Install the required dependencies:
     pip isntall cryptography
 
